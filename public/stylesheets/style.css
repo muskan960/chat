@@ -118,7 +118,6 @@ body{
     background-color: #fff;
     cursor: pointer;
     color: #2d2d2d;
-    font-family: fantasy;
     font-weight: 900;
    
 }
@@ -130,4 +129,12 @@ background-color: #f6f6f6;
     .clients-total{
         margin: 20px 0;
         color: #7e7e7e;
+    }
+    @media (max-width: 600px) {
+        .sendbutton {
+            height: 40px;
+            font-size: 13px;
+            
+          padding: 16px;
+        }
     }
