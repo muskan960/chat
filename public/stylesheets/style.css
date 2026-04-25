@@ -117,6 +117,10 @@ body{
     padding: 0 20px;
     background-color: #fff;
     cursor: pointer;
+    color: #2d2d2d;
+    font-family: fantasy;
+    font-weight: 900;
+   
 }
 .v-divider{
     height: 48px;
